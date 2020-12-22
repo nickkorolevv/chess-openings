@@ -1,0 +1,12 @@
+{
+  "name": "chess-openings",
+  "version": "1.0.0",
+  "description": "Small library with chess openings list",
+  "main": "index.js",
+  "keywords": [
+    "chess",
+    "openings"
+  ],
+  "author": "Nikita Korolev",
+  "license": "ISC"
+}
